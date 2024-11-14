@@ -1,6 +1,6 @@
 # hand2midi
 
-digital theremin.
+digital theremin for leap motion
 
 - Hovering hand to left side -> lower notes
 - Hovering hand to right side -> higher notes
